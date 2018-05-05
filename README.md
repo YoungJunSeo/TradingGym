@@ -13,6 +13,8 @@ cd TradingGym
 python setup.py install
 ```
 
+python -m pip install tables
+
 ### Getting Started
 ``` python
 import random
